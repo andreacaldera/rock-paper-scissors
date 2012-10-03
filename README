@@ -1,0 +1,46 @@
+h1. Welcome to _Rock Paper Scissors_
+
+h2. Author
+Andrea Caldera: andrea.caldera@gmail.com
+
+h2. Build the application
+{code}
+cd $PROJECT_HOME
+mvn clean install
+{code}
+
+h3. Run the application
+
+h4. Interactive mode
+Interactive mode offers you a basic UI for playing.
+
+{code}
+cd $PROJECT_HOME
+java -cp target/rock-paper-scissors-1.0-SNAPSHOT.jar org.andreacaldera.rockpaperscissors.App
+{code}
+
+h4. Demo mode
+
+Demo mode showcases a game from two virtual players.
+
+{code}
+java -cp target/rock-paper-scissors-1.0-SNAPSHOT.jar org.andreacaldera.rockpaperscissors.App -auto
+{code}
+
+h4. Advanced mode
+Rock paper scissors lizard spock can be played by using the start-up option -mode=sheldon
+
+{code}
+java -cp target/rock-paper-scissors-1.0-SNAPSHOT.jar org.andreacaldera.rockpaperscissors.App -mode=sheldon
+{code}
+or
+{code}
+java -cp target/rock-paper-scissors-1.0-SNAPSHOT.jar org.andreacaldera.rockpaperscissors.App -auto -mode=sheldon
+{code}
+
+h4. Help
+Help options available running
+
+{code}
+java -cp target/rock-paper-scissors-1.0-SNAPSHOT.jar org.andreacaldera.rockpaperscissors.App -help
+{code}
