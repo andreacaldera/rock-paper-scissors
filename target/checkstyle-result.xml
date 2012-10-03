@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.5">
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/main/java/org/andreacaldera/rockpaperscissors/ai/Ai.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/main/java/org/andreacaldera/rockpaperscissors/ai/AutoPlayer.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/main/java/org/andreacaldera/rockpaperscissors/App.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/main/java/org/andreacaldera/rockpaperscissors/data/GameResult.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/main/java/org/andreacaldera/rockpaperscissors/data/Weapon.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/main/java/org/andreacaldera/rockpaperscissors/data/WeaponFactory.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/main/java/org/andreacaldera/rockpaperscissors/exception/GameException.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/main/java/org/andreacaldera/rockpaperscissors/GameEngine.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/main/java/org/andreacaldera/rockpaperscissors/GameSettingsLoader.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/main/java/org/andreacaldera/rockpaperscissors/ui/UIController.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/main/java/org/andreacaldera/rockpaperscissors/ui/UIFrame.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/test/java/org/andreacaldera/rockpaperscissors/AppTest.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/test/java/org/andreacaldera/rockpaperscissors/AutoPlayerTest.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/test/java/org/andreacaldera/rockpaperscissors/data/GameResultTest.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/test/java/org/andreacaldera/rockpaperscissors/exception/GameExceptionTest.java">
+</file>
+<file name="/Users/calderaa/Desktop/rock-paper-scissors/src/test/java/org/andreacaldera/rockpaperscissors/GameEngineTest.java">
+</file>
+</checkstyle>

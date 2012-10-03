@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<game>
+
+    <weapon name="rock"/>
+    <weapon name="paper"/>
+    <weapon name="scissors"/>
+
+    <rule weapon="rock">
+        <beats name="crushes" weapon="scissors"/>
+    </rule>
+    <rule weapon="paper">
+        <beats name="covers" weapon="rock"/>
+    </rule>
+    <rule weapon="scissors">
+        <beats name="cuts" weapon="paper"/>
+    </rule>
+
+</game>

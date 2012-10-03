@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE suppressions PUBLIC
+        "-//Puppy Crawl//DTD Suppressions 1.1//EN"
+        "http://www.puppycrawl.com/dtds/suppressions_1_1.dtd">
+
+<suppressions>
+    <!-- Suppress certain checkstyle rules for all classes under "/src/test/java/" -->
+    <suppress files=".*[\\/]src[\\/]test[\\/]java[\\/]" checks="MagicNumber"/>
+    <suppress files=".*[\\/]src[\\/]test[\\/]java[\\/]" checks="VisibilityModifier"/>
+    <suppress files=".*[\\/]src[\\/]test[\\/]java[\\/]" checks="EmptyBlock"/>
+
+</suppressions>
